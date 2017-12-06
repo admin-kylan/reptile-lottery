@@ -1,2 +1,0 @@
-# reptile-lottery
-reptile-lottery
